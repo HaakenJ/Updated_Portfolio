@@ -20,6 +20,13 @@ img {
   margin-bottom: 10px;
 }
 
+.hor-list li {
+  float: left;
+  margin: 10px 25px;
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+
 .is-compact .mdl-layout__title span {
   display: none;
 }
