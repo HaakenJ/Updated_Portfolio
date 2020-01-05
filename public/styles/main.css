@@ -199,6 +199,19 @@ img.article-image {
   background: url("../img/person2.jpg") center/cover;
 }
 
+.snow-link {
+  color: #0082aa;
+  border-color: #0082aa;
+}
+.gif-link {
+  color: #df9000;
+  border-color: #df9000;
+}
+.train-link {
+  color: #438d1c;
+  border-color: #438d1c;
+}
+
 .demo-card-image > .mdl-card__actions {
   height: 52px;
   padding: 16px;
