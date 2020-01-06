@@ -200,8 +200,9 @@ img.article-image {
 }
 
 .portfolio-buttons {
-  position: relative;
-  top: 35px;
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
 }
 
 .demo-card-image > .mdl-card__actions {
