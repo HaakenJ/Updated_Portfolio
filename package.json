@@ -1,0 +1,22 @@
+{
+  "name": "updated_portfolio",
+  "version": "1.0.0",
+  "description": "Updated portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaakenJ/Updated_Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaakenJ/Updated_Portfolio/issues"
+  },
+  "homepage": "https://github.com/HaakenJ/Updated_Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
